@@ -1,4 +1,4 @@
-import img1 from "./assets/Background.png";
+import img1 from "../assets/Background.png";
 function Hero() {
   return (
     <>
